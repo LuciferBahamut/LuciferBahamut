@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-<!--
-**LuciferBahamut/LuciferBahamut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![LuciferBahamut's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuciferBahamut&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwyn974&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![LuciferBahamut's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuciferBahamut&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferBahamut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LuciferBahamut&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
+**LuciferBahamut/LuciferBahamut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
