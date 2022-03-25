@@ -5,6 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LuciferBahamut&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
 
+EN COURS :
 
 ## {Epitech} Projects (by year) :
 ### First Year :
