@@ -5,21 +5,21 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LuciferBahamut&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
 
-EN COURS :
+WARNING Tableau en cours !
 
 ## {Epitech} Projects (by year) :
-### First Year :
+### First Year - 2019 - 2020 :
 | theme                       | Projects |
 |-----------------------------|----------|
 | Pool                        | [CPool-part1](https://github.com/LuciferBahamut/CPool-Part-1) - [CPool-part2](https://github.com/LuciferBahamut/CPool-Part-2) |
 | Math                        | [101pong](https://github.com/LuciferBahamut/101pong) - [102architect](https://github.com/LuciferBahamut/102architect) - [103cipher](https://github.com/LuciferBahamut/103cipher) - [104intersection](https://github.com/LuciferBahamut/104intersection) - [105torus](https://github.com/luciferBahamut/105torus) - [106bombyx](https://github.com/LuciferBahamut/106bombyx) - [107transfer](https://github.com/LuciferBahamut/107transfer) - [108trigo](https://github.com/LuciferBahamut/108trigo) - [109titration](https://github.com/LuciferBahamut/109titration) - [110borwein](https://github.com/LuciferBahamut/110borwein)         |
 | Elementary programming in C | [BSQ](https://github.com/LuciferBahamut/BSQ) - [Pushswap](https://github.com/LuciferBahamut/Pushswap) - [Matchstick](https://github.com/LuciferBahamut/Matchstick) - [GetNextLine](https://github.com/LuciferBahamut/GetNextLine) - [Dante's Star](https://github.com/LuciferBahamut/Dante-s_star) - [Lem-In](https://github.com/LuciferBahamut/Lem-In) - [CoreWar](https://github.com/LuciferBahamut/CoreWar) |
-| Unix System programming     | [my_printf](https://github.com/Nekory23/my_printf) - [Sokoban](https://github.com/Nekory23/Sokoban) - [my_ls](https://github.com/Nekory23/my_ls) - [minishell1](https://github.com/Nekory23/minishell1) - [navy](https://github.com/Nekory23/navy) - [tetris](https://github.com/Nekory23/tetris) |
+| Unix System programming     | [my_printf](https://github.com/LuciferBahamut/My_Printf) - [Sokoban](https://github.com/LuciferBahamut/Sokoban) - [my_ls](https://github.com/LuciferBahamut/My_ls) - [minishell1](https://github.com/LuciferBahamut/Minishell1) - [navy](https://github.com/LuciferBahamut/Navy) - [tetris](https://github.com/LuciferBahamut/Tetris) |
+| Shell programming project   | [minishell2](https://github.com/LuciferBahamut/Minishell2) - [42sh](https://github.com/LuciferBahamut/42sh) |
 | C Graphical programming     | [my_screensaver](https://github.com/Nekory23/my_screensaver) - [my_runner](https://github.com/Nekory23/my_runner) - [my_defender](https://github.com/Nekory23/my_defender) - [my_rpg](https://github.com/Nekory23/my_RPG) |
 | Introduction to AI          | [need4stek](https://github.com/Nekory23/need4stek)  |
-| Shell programming project   | [minishell2](https://github.com/Nekory23/minishell2) - [42sh](https://github.com/Nekory23/42sh) |
 
-### Second Year :
+### Second Year - 2020 - 2021 :
 | theme                                           | Projects                                                        |
 |-------------------------------------------------|-----------------------------------------------------------------|
 | Pool                                            | [CPP-Pool](https://github.com/Nekory23/CPP_Pool_2020) - [FUN-Pool](https://github.com/Nekory23/FUN_Pool_2020)|
@@ -34,7 +34,7 @@ EN COURS :
 | Year-end projects                               | [IndieStudio]() - [Zappy]() |
 | DevOps (Docker - Jenkins)                       | [popeye](https://github.com/Nekory23/Popeye) - [my_marvin](https://github.com/Nekory23/my_marvin) |
 
-### Third year :
+### Third year - 2021 - 2022 :
 | theme                       | Projects |
 |-----------------------------|----------|
 
