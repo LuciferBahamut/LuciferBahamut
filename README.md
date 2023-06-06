@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/static/v1?label=Discord&message=!+Saphiro%236531&color=5865F2&style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord - Saphiro#6531" />
     &#8287;&#8287;
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/quentin-treheux-7b1b3b1b2/" title="My LinkedIn">
+    <a href="https://www.linkedin.com/in/quentin-treheux/" title="My LinkedIn">
     <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Quentin+TREHEUX&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn - Quentin TREHEUX" />
     &#8287;&#8287;
     <!-- Email -->
