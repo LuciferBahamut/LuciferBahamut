@@ -89,8 +89,8 @@
     <!-- VSCode -->
     <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="26px" style="padding-right:10px;"  />
     &#8287;&#8287;
-    <!-- Unity -->
-    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="26px" style="padding-right:10px;" />
+    <!-- Unity dark mode -->
+    <img align="left" background="white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="26px" style="padding-right:10px;" />
     &#8287;&#8287;
     <!-- Git -->
     <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26px" style="padding-right:10px;" />
