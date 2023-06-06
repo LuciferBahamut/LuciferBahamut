@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quentin Treheux</h1>
-<h2 align="center">I am currently studying at Epitech Paris (3rd year) and at Laval University in September 2022</h2>
+<h2 align="center">I am currently studying at Epitech Paris (4th year) and at Laval University (September 2022 - April 2023)</h2>
 
 <h3 align="left">Languages and Tools</h3>
 <p>
