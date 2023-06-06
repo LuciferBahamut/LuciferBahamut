@@ -1,60 +1,188 @@
-<h1 align="center">Hi 👋, I'm Quentin Treheux</h1>
-<h2 align="center">I am currently studying at Epitech Paris (4th year) and at Laval University (September 2022 - April 2023)</h2>
+<!-- Welcome animated text -->
+<div align="center">
+    <h1>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=500&center=true&multiline=true&width=650&height=125&lines=Hi+%F0%9F%91%8B+I'm+Quentin+TREHEUX%2C+Nice+to+meet+you;I+am+4th+year+studient+at+Epitech+Paris;And+at+Laval+University+(September+2022+-+April+2023);I'm+a+passionate+developper+from+France+(Paris)+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing SVG" /></a>
+    </h1>
+</div>
 
-<h3 align="left">Languages and Tools</h3>
-<p>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="26px" style="padding-right:10px;" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="26px" style="padding-right:10px;" />
-<img align="left" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="26px" style="padding-right:10px;" />
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="26px" style="padding-right:10px;" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="26px" style="padding-right:10px;" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="26px" style="padding-right:10px;" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="26px" style="padding-right:10px;" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="26px" style="padding-right:10px;"  />
-<img align="left" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" alt="GitHub" width="26px" style="padding-right:10px;"  />
-<img align="left" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" alt="GitHub" width="26px" style="padding-right:10px;"  />
-<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26px" style="padding-right:10px;" />
-<img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="26px" style="padding-right:10px;" />
-<img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="26px" style="padding-right:10px;" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="26px" style="padding-right:10px;" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="26px" style="padding-right:10px;" />
-<img align="left" src="./img/terminal-light.svg#gh-light-mode-only" alt="Terminal" width="26px" style="padding-right:10px;" />
-<img align="left" src="./img/terminal-dark.svg#gh-dark-mode-only" alt="Terminal" width="26px" style="padding-right:10px;" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="26px" style="padding-right:10px;" />
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/langfr-1920px-Windows_logo_and_wordmark_-_2021.svg.png" alt="windows" width="75px" style="padding-right:10px;" />
-</p>
+<!-- Contact -->
 
+<div align="center">
+    <!-- Discord -->
+    <a href="https://discord.com/users/529246373757976586" title="My Discord">
+    <img src="https://img.shields.io/static/v1?label=Discord&message=!+Saphiro%236531&color=5865F2&style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord - Saphiro#6531" />
+    &#8287;&#8287;
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/quentin-treheux-7b1b3b1b2/" title="My LinkedIn">
+    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Quentin+TREHEUX&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn - Quentin TREHEUX" />
+    &#8287;&#8287;
+    <!-- Email -->
+    <a href="mailto:quentin.treheux@epitech.eu" title="My Email">
+    <img src="https://img.shields.io/static/v1?label=Email&message=quentin.treheux%40epitech.eu&color=EA4335&style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email - quentin.treheux@epitech" />
+    </a>
+</div>
+
+---
+
+<!-- Languages and Tools -->
+
+<h3 align="center">✨ Languages and Tools ✨</h2>
+
+<details open> <!-- Languages -->
+<summary>🌐 Languages {Code}</summary>
+    <br />
+    <!-- C -->
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="26px" style="padding-right:10px;" />
+    &#8287;&#8287;
+    <!-- C++ -->
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="26px" style="padding-right:10px;" />
+    &#8287;&#8287;
+    <!-- C# -->
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="26px" style="padding-right:10px;" />
+    &#8287;&#8287;
+    <!-- Flutter -->
+    <img align="left" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="26px" style="padding-right:10px;" />
+    &#8287;&#8287;
+    <!-- Haskell -->
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="26px" style="padding-right:10px;" />
+    &#8287;&#8287;
+    <!-- React -->
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="26px" style="padding-right:10px;" />
+    &#8287;&#8287;
+    <!-- NodeJs -->
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="26px" style="padding-right:10px;" />
+    &#8287;&#8287;
+    <!-- Python -->
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26px" style="padding-right:10px;" />
+    &#8287;&#8287;
+    <!-- Java -->
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="26px" style="padding-right:10px;" />
+    &#8287;&#8287;
+    <!-- HTML -->
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="26px" style="padding-right:10px;" />
+    &#8287;&#8287;
+    <!-- CSS -->
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="26px" style="padding-right:10px;" />
+    &#8287;&#8287;
+    <!-- JS -->
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="26px" style="padding-right:10px;" />
+    &#8287;&#8287;
+    <!-- TS -->
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="26px" style="padding-right:10px;" />
+    &#8287;&#8287;
+    <!-- Shell -->
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="26px" style="padding-right:10px;" />
+    &#8287;&#8287;
+    <!-- Markdown -->
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="26px" style="padding-right:10px;" />
+    &#8287;&#8287;
+</details>
+&#8287;&#8287;
+
+
+<details open> <!-- Tools -->
+<summary>🛠️ Tools</summary>
 <br />
+    <!-- Docker -->
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="26px" style="padding-right:10px;" />
+    &#8287;&#8287;
+    <!-- VSCode -->
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="26px" style="padding-right:10px;"  />
+    &#8287;&#8287;
+    <!-- Unity -->
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="26px" style="padding-right:10px;" />
+    &#8287;&#8287;
+    <!-- Git -->
+    <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26px" style="padding-right:10px;" />
+    &#8287;&#8287;
+    <!-- Postman -->
+    <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="26px" style="padding-right:10px;" />
+    &#8287;&#8287;
+    <!-- Github light -->
+    <img align="left" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" alt="GitHub" width="26px" style="padding-right:10px;"  />
+    <!-- Github dark -->
+    <img align="left" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" alt="GitHub" width="26px" style="padding-right:10px;"  />
+</details>
+&#8287;&#8287;
+
+<details open> <!-- Databases -->
+<summary>📚 Databases</summary>
+<br />
+    <!-- Firebase -->
+    <img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="26px" style="padding-right:10px;" />
+    &#8287;&#8287;
+    <!-- MongoDB -->
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="26px" style="padding-right:10px;" />
+    &#8287;&#8287;
+    <!-- MySQL -->
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="26px" style="padding-right:10px;" />
+    &#8287;&#8287;
+    <!-- PostgreSQL -->
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="26px" style="padding-right:10px;" />
+</details>
+&#8287;&#8287;
+
+<details open> <!-- OS -->
+<summary>📚 OS</summary>
+<br />
+    <!-- Linux -->
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="26px" style="padding-right:10px;" />
+    &#8287;&#8287;
+    <!-- Windows -->
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/langfr-1920px-Windows_logo_and_wordmark_-_2021.svg.png" alt="windows" width="75px" style="padding-right:10px;" />
+</details>
+&#8287;&#8287;
+
+<details open> <!-- Languages -->
+<summary>🌐 Languages {Human}</summary>
+    <!-- French Native -->
+    🇫🇷
+    &#8287;&#8287;
+    <!-- English -->
+    🇬🇧
+<br />
+</details>
 
 ---
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/quentin-treheux/#gh-light-mode-only" target="blank"><img align="center" src="./img/linkedin-light.svg" alt="quentin treheux" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/quentin-treheux/#gh-dark-mode-only" target="blank"><img align="center" src="./img/linkedin-dark.svg" alt="quentin treheux" height="30" width="40" /></a>
-</p>
+<!-- Github Stats -->
+<h2 align="center">✨ Github Stats ✨</h2>
+
+<details open> <!-- Stats -->
+<summary>📊 Stats</summary>
+    <br />
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=LuciferBahamut&show_icons=true&theme=radical" alt="LuciferBahamut :: Profile Stats" />
+        &#8287;&#8287;
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferBahamut&langs_count=10&theme=radical&layout=compact" alt="LuciferBahamut :: Top Langs" />
+        &#8287;&#8287;
+        <p align="center">
+        <img src="https://metrics.lecoq.io/LuciferBahamut?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FParis" alt="LuciferBahamut :: Github Stats" />
+    </p>
+</details>
+
+<details open> <!-- Streak -->
+<summary>🔥 Streak</summary>
+    <br />
+    <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuciferBahamut&theme=radical" alt="LuciferBahamut :: Streak Stats" />
+    </p>
+</details>
+
+<details open> <!-- Trophies -->
+<summary>🏆 Trophies</summary>
+    <br />
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=LuciferBahamut&theme=radical" alt="LuciferBahamut :: Trophies" />
+    </p>
+</details>
 
 ---
 
-<h3>Github Stats</h3>
-<p> <a href="https://github.com/LuciferBahamut#gh-dark-mode-only"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luciferbahamut&show_icons=true&locale=en&layout=compact&theme=dark" alt="luciferbahamut" /> </a> </p>
-<p> <a href="https://github.com/LuciferBahamut#gh-light-mode-only"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luciferbahamut&show_icons=true&locale=en&layout=compact&theme=light" alt="luciferbahamut" /> </a> </p>
-
-<p> <a href="https://github.com/LuciferBahamut#gh-dark-mode-only"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=luciferbahamut&show_icons=true&locale=en&theme=dark" alt="luciferbahamut" /> </a> </p>
-<p> <a href="https://github.com/LuciferBahamut#gh-light-mode-only"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=luciferbahamut&show_icons=true&locale=en" alt="luciferbahamut" /> </a> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=luciferbahamut" alt="luciferbahamut" /> </a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=luciferbahamut&theme=chalk" alt="luciferbahamut" /> </a> </p>
-
-<p> <a href="https://github.com/LuciferBahamut#gh-light-mode-only"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luciferbahamut&" alt="luciferbahamut" /> </a> </p>
-<p> <a href="https://github.com/LuciferBahamut#gh-dark-mode-only"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luciferbahamut&theme=dark" alt="luciferbahamut" /> </a> </p>
+<!-- Epitech Projects -->
+<h2 align="center" style="color:blue;">✨ {Epitech} Projects ✨</h2>
 
 
----
-
-WARNING Tableau en cours !
-
-## {Epitech} Projects (by year) :
 ### First Year - 2019 - 2020 :
 | THEME | PROJECTS |
 |:---:|---|
