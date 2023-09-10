@@ -1,7 +1,7 @@
 <!-- Welcome animated text -->
 <div align="center">
     <h1>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=500&center=true&multiline=true&width=650&height=125&lines=Hi+%F0%9F%91%8B+I'm+Quentin+TREHEUX%2C+Nice+to+meet+you;I+am+4th+year+studient+at+Epitech+Paris;And+at+Laval+University+(September+2022+-+April+2023);I'm+a+passionate+developper+from+France+(Paris)+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=500&center=true&multiline=true&width=650&height=125&lines=Hi+%F0%9F%91%8B+I'm+Quentin+TREHEUX%2C+Nice+to+meet+you;I+am+5th+year+studient+at+Epitech+Paris;I'm+a+passionate+developper+from+France+(Paris)+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing SVG" /></a>
     </h1>
 </div>
 
