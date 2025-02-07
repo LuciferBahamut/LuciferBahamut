@@ -194,7 +194,7 @@
 | C Graphical programming | [my_screensaver][screensaver] - [my_runner][runner] - [my_defender][defender] - [my_rpg][rpg] |
 | Introduction to AI | [need4stek][N4S] |
 
-### Second Year - 2020 - 2021 :
+### Second Year - 2020 - 2021 : (COMING SOON)
 | THEME | PROJECTS |
 |:---:|---|
 | CPP Pool | [CPP-Pool][CPPPool] |
@@ -210,15 +210,15 @@
 | DevOps (Docker - Jenkins) | [popeye][popeye] - [my_marvin][marvin] |
 | Year-end projects | [IndieStudio][IndieStudio] - [Zappy][Zappy] |
 
-### Third year - 2021 - 2022 :
+### Third year - 2021 - 2022 : (COMING SOON)
 | THEME | PROJECTS |
 |:---:|---|
 
-### Fourth year - 2022 - 2023 : Laval University 🇨🇦 : 
+### Fourth year - 2022 - 2023 : Laval University 🇨🇦 : (COMING SOON)
 | THEME | PROJECTS |
 |:---:|---|
 
-### Fifth year - 2023 - 2024 :
+### Fifth year - 2023 - 2024 : (COMING SOON)
 | THEME | PROJECTS |
 |:---:|---|
 
